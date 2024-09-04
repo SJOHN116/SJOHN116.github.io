@@ -1,0 +1,5 @@
+title: My Blog
+description: A simple blog using Jekyll and GitHub Pages.
+baseurl: ""
+url: "https://SJOHN116.github.io"
+theme: jekyll-theme-cayman
